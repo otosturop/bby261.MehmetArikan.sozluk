@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 4em;
+    
+    color: yellow;
+}
+
+body{
+    background-image: url(manzara.jpg);
+    background-attachment: scroll;
+    background-size: 100% 100%;
+
+}
+
+ul
+{
+    list-style: none outside none;
+}
+li
+{
+    position: relative;
+    display: inline;
+    margin: 60px;
+    
+}
