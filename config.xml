@@ -23,7 +23,7 @@
         
     <!-- Ek Özellikler -->
 
-    <preference name="orientation" value="portrait" />
+    <preference name="orientation" value="landscape" />
     <preference name="fullscreen" value="false" />
         
     <!-- İkon -->
